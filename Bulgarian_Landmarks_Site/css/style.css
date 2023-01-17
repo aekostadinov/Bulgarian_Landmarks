@@ -30,7 +30,7 @@ nav li a{
 }
 
 body{
-    background-image: url("Bulgaria.jpg");
+    background-image: linear-gradient(rgba(0,0,0,0.3), #35b56a), url("Bulgaria.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -39,7 +39,7 @@ body{
 }
 
 .mapdiv{
-    width: 110%;
+    width: 100%;
     margin: auto;
     margin-top: 65px;
     margin-left: 75px;
