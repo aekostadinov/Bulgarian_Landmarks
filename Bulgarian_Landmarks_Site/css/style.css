@@ -4,13 +4,19 @@ header > p {
 
 }
 
+.logo {
+    float:left;
+    padding:0px;
+}
+
 nav {
     background: darkgreen ;
     padding: 5px;
     text-align: right;
-    opacity: 0.8;
+    opacity: 0.9;
     font-size: 20px;
 }
+
 
 nav li{
     display: inline-block;
