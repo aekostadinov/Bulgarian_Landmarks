@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+
 header > p {
     float:left;
     color: white;
@@ -28,6 +31,12 @@ nav li a{
     color: white;
     text-decoration: none;
 }
+
+* {
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+
 
 body{
     background-image: linear-gradient(rgba(0,0,0,0.3), #35b56a), url("Bulgaria.jpg");
